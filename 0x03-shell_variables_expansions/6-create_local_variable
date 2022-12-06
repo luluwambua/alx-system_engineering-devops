@@ -1,0 +1,3 @@
+#!/bin/bash
+foo () { Name="BEST" : Value="School" }
+
